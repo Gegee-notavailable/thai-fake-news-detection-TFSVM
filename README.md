@@ -1,6 +1,11 @@
-https://colab.research.google.com/drive/1tr1g35IcoS34fTVogH3z7vuPj8EMQ1gv?usp=sharing
-https://colab.research.google.com/drive/1RDU9JlfekD_NK1U4qM6FeV0MLY6eFsu5?usp=sharing
-
-
-final
+colab code
 https://colab.research.google.com/drive/1u80pej8H-0XfH-A44veb4-XJMtBhf93E?usp=sharing
+
+ไฟล์ exel รวม dataset
+AFNC_Opendata_export_20260930221100.xlsx 
+
+แหล่งที่มา data test
+Open Data | Anti-Fake News Center Thailand 
+
+dataset ที่ใช้เทรน
+EXt1/Thai-True-Fake-News · Datasets at Hugging Face 
